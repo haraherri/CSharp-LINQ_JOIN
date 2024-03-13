@@ -1,0 +1,7 @@
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\bin\Debug\HoGiaHuy_Excercise.exe.config
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\bin\Debug\HoGiaHuy_Excercise.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\bin\Debug\HoGiaHuy_Excercise.pdb
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\obj\Debug\HoGiaHuy_Excercise.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\obj\Debug\HoGiaHuy_Excercise.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\obj\Debug\HoGiaHuy_Excercise.exe
+E:\Visual Studio\C#\C#_Class\HoGiaHuy_Excercise\obj\Debug\HoGiaHuy_Excercise.pdb
